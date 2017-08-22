@@ -15,6 +15,8 @@
   "bugs": {
     "url": "https://github.com/vishnu2prasadh/demo/issues"
   },
-  "homepage": "https://github.com/vishnu2prasadh/demo#readme"
-
+  "homepage": "https://github.com/vishnu2prasadh/demo#readme",
+  "dependencies": {
+    "express": "4.15.4"
+  }
 }
